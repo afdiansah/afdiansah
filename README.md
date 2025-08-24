@@ -8,6 +8,8 @@ Saat ini saya sedang menempuh pendidikan s1 pada jurusan teknik komputer pada un
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raifal-bagus-afdiansah) ku ya.
 
+Selain itu juga kamu bisa melihat project project yang telah aku kerjakan pada halaman website berikut : [Website Portofolio](https://portofolio-tawny-nu.vercel.app/).
+
 <p align="left">
 <a href="https://github.com/afdiansah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afdiansah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
