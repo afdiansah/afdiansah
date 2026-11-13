@@ -4,11 +4,15 @@ Perkenalkan nama saya **Raifal Bagus Afdiansah**.<br>
 
 Saya seorang **Developer**.<br>
 
-Saat ini saya sedang menempuh pendidikan s1 pada jurusan teknik komputer pada universitas pendidikan indonesia
+Recent Computer Engineering graduate from Universitas Pendidikan Indonesia with practical
+experience in developing websites, applications, games, and AI-based solutions. Driven by a strong
+passion for creating meaningful products and maintaining them to ensure continuous performance.
+Enjoys exploring new codebases to understand how systems work and applying that knowledge to
+build better solutions.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raifal-bagus-afdiansah) ku ya.
+If you're interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/raifal-bagus-afdiansah) account.
 
-Selain itu juga kamu bisa melihat project project yang telah aku kerjakan pada halaman website berikut : [Website Portofolio](https://portofolio-tawny-nu.vercel.app/).
+You can also check out the projects I've worked on on the following webpage: [Portfolio Website]((https://raifal-bagus-afdiansah.vercel.app/)).
 
 <p align="left">
 <a href="https://github.com/afdiansah">
