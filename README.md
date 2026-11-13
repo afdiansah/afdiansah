@@ -12,7 +12,7 @@ build better solutions.
 
 If you're interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/raifal-bagus-afdiansah) account.
 
-You can also check out the projects I've worked on on the following webpage: [Portfolio Website]((https://raifal-bagus-afdiansah.vercel.app/)).
+You can also check out the projects I've worked on on the following webpage: [Portfolio Website](https://raifal-bagus-afdiansah.vercel.app/).
 
 <p align="left">
 <a href="https://github.com/afdiansah">
